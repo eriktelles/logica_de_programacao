@@ -5,7 +5,7 @@
 #                       ordenacao, acumulador, funcoes
 # ============================================================
 
-from utils import cabecalho, linha, entrada_float, pausar
+from utils import cabecalho, linha, entrada_inteiro , pausar
 
 
 def calcular_rpn(severidade, ocorrencia, deteccao):
